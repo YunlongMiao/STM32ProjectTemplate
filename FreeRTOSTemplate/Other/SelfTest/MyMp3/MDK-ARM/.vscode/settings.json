@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "myapplication.h": "c",
+        "lcdfont.h": "c",
+        "lcd.h": "c",
+        "stdlib.h": "c",
+        "system.h": "c",
+        "mytask.h": "c",
+        "main.h": "c",
+        "delay.h": "c",
+        "stdint.h": "c"
+    }
+}
