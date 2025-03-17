@@ -40,3 +40,11 @@ FreeRTOSTemplate/MyProjectTemplate为OS确定模板，调试完成
 ------
 
 printf输出乱码问题，文件编码格式问题，utf-8修改为gbk2312
+
+
+
+
+
+------
+
+库函数版本和hal库版本为了上传进行了裁剪(CMSIS)
